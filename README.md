@@ -1,4 +1,4 @@
-# UsefulResources
+# Useful Resources
 
 Microsoft 10-11 + office key workaround.
 https://massgrave.dev/
