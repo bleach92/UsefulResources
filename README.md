@@ -13,9 +13,3 @@
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox/Image-Research-OSINT)
 * [Username Lookup](https://www.user-searcher.com/)
 * [Jetbrains](https://www.jetbrains.com/)
-
-
-
-
-- **testing**: [testing.com](testing.com) - test
-- **Testing2**: [testing.com](testing.com) - just a test
