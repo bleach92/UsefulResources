@@ -12,7 +12,8 @@ Currated list of resources for discord community.
 * [Open Source LLM/AI Repository](https://huggingface.co/models)
 * [LLM Ollama AI Repository](https://ollama.com/)
 
-## OSINT:
+## OSINT
+- * [Github OSINT Links](https://github.com/jivoi/awesome-osint) - Currated list of OSINT sites:
 
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox/Image-Research-OSINT)
 * [Username Lookup](https://www.user-searcher.com/)
