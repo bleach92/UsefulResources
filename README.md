@@ -21,7 +21,7 @@ https://huggingface.co/models
 LLM Ollama AI Repository:
 https://ollama.com/
 
-#OSINT:
+# OSINT:
 
 OSINT Toolbox:
 https://github.com/The-Osint-Toolbox/Image-Research-OSINT
