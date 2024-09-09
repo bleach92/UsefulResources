@@ -13,11 +13,7 @@ Currated list of resources for discord community.
 * [LLM Ollama AI Repository](https://ollama.com/)
 
 ## OSINT
-- * [Github OSINT Links](https://github.com/jivoi/awesome-osint) - Currated list of OSINT sites:
-
+* [Github OSINT Links](https://github.com/jivoi/awesome-osint) - Currated list of OSINT sites:
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox/Image-Research-OSINT)
 * [Username Lookup](https://www.user-searcher.com/)
 * [Jetbrains](https://www.jetbrains.com/)
-
-## test
-* [test](https://google.com) - test
