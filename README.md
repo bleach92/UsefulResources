@@ -17,3 +17,6 @@ Currated list of resources for discord community.
 * [OSINT Toolbox](https://github.com/The-Osint-Toolbox/Image-Research-OSINT)
 * [Username Lookup](https://www.user-searcher.com/)
 * [Jetbrains](https://www.jetbrains.com/)
+
+## Programming
+* [Hex Rays](https://hex-rays.com/ida-pro/) - Disassembler / Debugger
