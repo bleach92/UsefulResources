@@ -22,3 +22,5 @@ Currated list of resources for discord community.
 * [Hex Rays](https://hex-rays.com/ida-pro/) - Disassembler / Debugger
 ## Education
 * [Free/ Inexpensive Education](https://docs.google.com/spreadsheets/d/1dPd3kolcFwslyEhcxJkvBq8V_lYda47IOT3g7yJhTHE/edit?usp=sharing) - Free and Inexpensive education/ certs
+## Free Software
+* [MassGrave](https://massgrave.dev/) - Free activation for Windows/ Office Suite
