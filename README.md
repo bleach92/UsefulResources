@@ -20,3 +20,5 @@ Currated list of resources for discord community.
 
 ## Programming
 * [Hex Rays](https://hex-rays.com/ida-pro/) - Disassembler / Debugger
+## Education
+* [Free/ Inexpensive Education](https://docs.google.com/spreadsheets/d/1dPd3kolcFwslyEhcxJkvBq8V_lYda47IOT3g7yJhTHE/edit?usp=sharing) - Free and Inexpensive education/ certs
